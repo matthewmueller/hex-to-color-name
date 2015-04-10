@@ -1,6 +1,6 @@
 # Hex to Color Name
 
-Tiny module to map hex colors to names of your choice. Good for coercing to a name.
+Tiny module to map hex colors to names of your choice. Good for coercing arbitrary hex colors to a name.
 
 ## Example
 
