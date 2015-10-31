@@ -4,7 +4,8 @@
   "red": "FF0000",
   "green": "00FF00",
   "blue": "0000FF",
-  "pink": "FF00FF",
+  "magenta": "FF00FF",
   "yellow": "FFFF00",
-  "teal": "00FFFF"
+  "cyan": "00FFFF",
+  "gray": "808080"
 }
