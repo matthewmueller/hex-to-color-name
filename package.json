@@ -1,6 +1,6 @@
 {
   "name": "hex-to-color-name",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "tiny module to map hex colors to names of your choice",
   "main": "index.js",
   "dependencies": {},
